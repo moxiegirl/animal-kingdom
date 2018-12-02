@@ -52,5 +52,13 @@ export const OTHER_KINGDOMS = [
   {
       app: 'https://thirsty-jang-0c0a17.netlify.com',
       ruler: 'ma1222042.id.blockstack'
+  },
+  {
+      app: 'https://elastic-yalow-5d7c5a.netlify.com',
+      ruler: 'kkomaz.blackstack.id'
+  },
+  {
+      app: 'https://valsanimalkingdom.netlify.com',
+      ruler: 'valentin.blackstack.id'
   }
 ]
